@@ -2,7 +2,7 @@
 
 **Concira** is a sophisticated home automation app designed to provide seamless control over multiple homes. This project demonstrates advanced features in home automation, offering a user-friendly interface and comprehensive control options.
 
-![Concira Dashboard](https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg)  
+![Concira Dashboard](https://drive.google.com/file/d/1AScLlSaIl7doj2S2CiaH0W72tXxuRFft/view?usp=sharing)  
 *Concira Dashboard Interface*
 
 ## Features
